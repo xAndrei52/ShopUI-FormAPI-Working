@@ -7,7 +7,7 @@ Titles:
 Messages:
   Survival: "Get back on survival to use shop!" # Message for when player is in creative and shop is set to survival only
   ExitButton: "§b§6Back Page" # Button for Item Category
-  Category_ExitButton: "§l§2Exit §bGalaxy shop" # Button for Exiting Plugin!
+  Category_ExitButton: "§l§2Exit §bGalaxy Shop" # Button for Exiting Plugin!
   Input: "Amount" # The Words above the Input Amount!
   # You can use {price here now!}
   Each: "§b $ {price} Each" # Signs for the Buttons like Steak 4($ Each) that is the part it changes
